@@ -1,0 +1,5 @@
+// const spread = require('./javaScript/spread')
+const Error = require('./javaScript/Error')
+// const map = require('./javaScript/map')
+// const AsynchAwait = require('./javaScript/AsyncAwait')
+// const user = require('./javaScript/Promisse')
